@@ -1,0 +1,97 @@
+model,h,threshold,reported_profit,reported_trades
+Elastic Net,1,0.0,-9.07,283
+Elastic Net,1,0.0025,-6.33,61
+Elastic Net,1,0.005,-8.69,25
+Elastic Net,1,0.01,-7.83,9
+Elastic Net,5,0.0,9.56,127
+Elastic Net,5,0.0025,-2.22,61
+Elastic Net,5,0.005,-5.24,53
+Elastic Net,5,0.01,-7.2,13
+Elastic Net,10,0.0,7.16,67
+Elastic Net,10,0.0025,1.09,53
+Elastic Net,10,0.005,-5.84,37
+Elastic Net,10,0.01,-8.87,13
+Elastic Net,15,0.0,18.22,79
+Elastic Net,15,0.0025,14.48,53
+Elastic Net,15,0.005,3.03,73
+Elastic Net,15,0.01,-2.39,21
+Elastic Net,20,0.0,21.49,59
+Elastic Net,20,0.0025,14.38,45
+Elastic Net,20,0.005,13.93,57
+Elastic Net,20,0.01,-5.28,25
+Elastic Net,25,0.0,16.61,87
+Elastic Net,25,0.0025,14.96,91
+Elastic Net,25,0.005,10.01,69
+Elastic Net,25,0.01,-0.91,69
+Decision Tree,1,0.0,-8.02,319
+Decision Tree,1,0.0025,-5.66,205
+Decision Tree,1,0.005,-5.69,165
+Decision Tree,1,0.01,-5.43,125
+Decision Tree,5,0.0,-3.56,237
+Decision Tree,5,0.0025,-12.39,233
+Decision Tree,5,0.005,-7.85,217
+Decision Tree,5,0.01,-7.33,201
+Decision Tree,10,0.0,-6.16,435
+Decision Tree,10,0.0025,-6.91,431
+Decision Tree,10,0.005,-6.36,395
+Decision Tree,10,0.01,-3.59,367
+Decision Tree,15,0.0,-2.22,485
+Decision Tree,15,0.0025,-4.37,473
+Decision Tree,15,0.005,-5.16,461
+Decision Tree,15,0.01,-6.69,449
+Decision Tree,20,0.0,7.97,399
+Decision Tree,20,0.0025,4.85,395
+Decision Tree,20,0.005,7.1,395
+Decision Tree,20,0.01,3.11,349
+Decision Tree,25,0.0,7.82,517
+Decision Tree,25,0.0025,9.25,509
+Decision Tree,25,0.005,6.32,517
+Decision Tree,25,0.01,1.64,533
+XGBoost,1,0.0,0.63,191
+XGBoost,1,0.0025,1.41,165
+XGBoost,1,0.005,-2.4,85
+XGBoost,1,0.01,-6.22,41
+XGBoost,5,0.0,-8.83,439
+XGBoost,5,0.0025,-10.87,399
+XGBoost,5,0.005,-9.54,339
+XGBoost,5,0.01,-11.72,303
+XGBoost,10,0.0,-4.75,519
+XGBoost,10,0.0025,-7.94,515
+XGBoost,10,0.005,-7.26,491
+XGBoost,10,0.01,-7.09,423
+XGBoost,15,0.0,-2.59,483
+XGBoost,15,0.0025,4.05,503
+XGBoost,15,0.005,2.28,511
+XGBoost,15,0.01,3.27,463
+XGBoost,20,0.0,6.57,459
+XGBoost,20,0.0025,7.63,459
+XGBoost,20,0.005,0.75,467
+XGBoost,20,0.01,4.37,451
+XGBoost,25,0.0,1.43,391
+XGBoost,25,0.0025,1.58,391
+XGBoost,25,0.005,1.03,403
+XGBoost,25,0.01,4.44,417
+LightGBM,1,0.0,9.85,1121
+LightGBM,1,0.0025,-5.09,409
+LightGBM,1,0.005,-7.54,169
+LightGBM,1,0.01,-5.98,77
+LightGBM,5,0.0,5.39,687
+LightGBM,5,0.0025,-10.95,619
+LightGBM,5,0.005,-3.27,517
+LightGBM,5,0.01,-6.2,369
+LightGBM,10,0.0,-12.07,507
+LightGBM,10,0.0025,-4.73,545
+LightGBM,10,0.005,0.27,517
+LightGBM,10,0.01,-0.76,509
+LightGBM,15,0.0,3.51,483
+LightGBM,15,0.0025,7.46,451
+LightGBM,15,0.005,8.06,443
+LightGBM,15,0.01,9.41,439
+LightGBM,20,0.0,2.91,471
+LightGBM,20,0.0025,6.67,447
+LightGBM,20,0.005,17.04,439
+LightGBM,20,0.01,10.34,439
+LightGBM,25,0.0,12.43,547
+LightGBM,25,0.0025,10.0,531
+LightGBM,25,0.005,8.18,527
+LightGBM,25,0.01,3.69,475
